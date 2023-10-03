@@ -1,0 +1,7 @@
+// pilihan player
+
+
+//pilihan computer
+
+
+// 
